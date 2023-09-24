@@ -1,0 +1,6 @@
+{
+  "sonarlint.connectedMode.project": {
+    "connectionId": "rrroman",
+    "projectKey": "Rrroman_nextjs-blog"
+  }
+}

@@ -11,10 +11,18 @@
     "next": "latest",
     "react": "18.2.0",
     "react-dom": "18.2.0",
+    "rehype": "^13.0.1",
+    "rehype-stringify": "^10.0.0",
     "remark": "^15.0.1",
-    "remark-html": "^15.0.2"
+    "remark-html": "^15.0.2",
+    "remark-rehype": "^11.0.0"
   },
   "engines": {
     "node": ">=18"
+  },
+  "devDependencies": {
+    "@types/node": "20.6.4",
+    "@types/react": "18.2.22",
+    "typescript": "5.2.2"
   }
 }
